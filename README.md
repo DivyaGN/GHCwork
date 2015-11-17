@@ -52,6 +52,8 @@ Windows: (Through VMware player)
 6.	For Workstation player users, simply double-clicking on the OVA will start the import.
 
 
+
+
 Mac OS :
 
 1.VMware fusion
@@ -72,6 +74,9 @@ http://www.vmware.com/products/fusion/fusion-evaluation?productId=361
 Option2:
 
 If you use Mac OS X and don't want VM's -> https://github.com/noplay/docker-osx
+
+
+
 
 
 2.HOW TO ACCESS BIOS AND ENABLE INTEL VIRTUALIZATION TECHNOLOGY ON WINDOWS 8/8.1/10:
@@ -103,7 +108,8 @@ Note: download_deps_before.workshop.sh
 
 The script will help you make sure that docker is up and running, we want to go swiftly through excercises, it will also download everyting before so we won't have to rely on the internet connection.
 
-Note: There is a repo on github with useful aliases for docker
+Note: 
+There is a repo on github with useful aliases for docker
 
 https://github.com/GHCwork/DockerWorkshop
 
