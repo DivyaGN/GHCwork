@@ -23,15 +23,27 @@ Windows:
 You can easily set up your environment through VMware player:
 
 1.1	INSTALL VMWARE PHOTON OS ON VMWARE WORKSTATION
-OS Template to choose: Other Linux 3.x 64bit
+
+		OS Template to choose: Other Linux 3.x 64bit
+	
 Windows: (Through VMware player)
+
 1.	VMware Player download : http://www.vmware.com/products/player/playerpro-evaluation.html 
-2.	Back UP : Both for windows 32 and 64 bit OS : https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_player/6_0|PLAYER-607|product_downloads 
+
+
+2.	Back UP : Both for windows 32 and 64 bit OS :
+	https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_player/6_0|PLAYER-607|product_downloads 
+
 3.	Download photon ISO 1st, https://dl.bintray.com/vmware/photon/iso/1.0TP2/x86_64/photon-1.0TP2.iso 
-      a.	Steps to install Photon on player :    http://www.virten.net/2015/04/guide-to-install-photon-in-vmware-workstation-and-deploy-a-container/ 
+
+      a.	Steps to install Photon on player :       
+      
+      http://www.virten.net/2015/04/guide-to-install-photon-in-vmware-workstation-and-deploy-a-container/ 
+      
       b.	Reference video : https://www.youtube.com/watch?v=YTzel0Y0lTU 
 
 1.2	DEPLOY OVA DIRECTLY FOR PHOTON VM CREATION
+
 1.	Download OVA :  https://dl.bintray.com/vmware/photon/ova/1.0TP2/x86_64/photon-1.0TP2.ova 
 2.	Creating a Photon OS VM by Importing the OVA Using the OVA is the easiest way to create a Photon OS VM. 
 3.	Once you’ve downloaded the OVA, open VMware Fusion and select, “Import …” from the File menu. 
