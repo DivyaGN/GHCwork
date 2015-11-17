@@ -52,10 +52,10 @@ Windows: (Through VMware player)
 6.	For Workstation player users, simply double-clicking on the OVA will start the import.
 
 
-
 Mac OS :
 
 1.VMware fusion
+
 2.If you use Mac OS X and don't want VM's -> https://github.com/noplay/docker-osx
 
 Option1:
@@ -70,33 +70,41 @@ http://www.vmware.com/products/fusion/fusion-evaluation?productId=361
 3.	Reference YouTube video : https://www.youtube.com/watch?v=lHW795iSpNs 
 
 Option2:
+
 If you use Mac OS X and don't want VM's -> https://github.com/noplay/docker-osx
 
 
-2	HOW TO ACCESS BIOS AND ENABLE INTEL VIRTUALIZATION TECHNOLOGY ON WINDOWS 8/8.1/10
+2.HOW TO ACCESS BIOS AND ENABLE INTEL VIRTUALIZATION TECHNOLOGY ON WINDOWS 8/8.1/10:
 
 2.1	CONFIRM VIRTUALIZATION TECHNOLOGY IS ENABLED OR DISABLED?
 
 Option 1:
+
 1.	Intel® Processor Identification Utility: It is a software to verify if VT is enabled or not for Intel processor. 
 
 2.	Download pidenu42.msi and install it on your desktop : https://downloadcenter.intel.com/download/7838 
 
 Option 2:
+
 3.	MICROSOFT® HARDWARE-ASSISTED VIRTUALIZATION DETECTION TOOL 
 
 4.	Following tool to verify VT enabled status for both Intel and AMD processor. Just download exe and run it, it shows pop up and says VT is not enabled or enabled. 
 
 5.	http://www.microsoft.com/en-us/download/confirmation.aspx?id=592&6B49FDFB-8E5B-4B07-BC31-15695C5A2143=1
+
+
 Option 3:
 
 6.	When installing player, it shows pop up as vt is not enabled so no vms can be powered on.
 
 
+
 Note: download_deps_before.workshop.sh
+
 The script will help you make sure that docker is up and running, we want to go swiftly through excercises, it will also download everyting before so we won't have to rely on the internet connection.
 
 Note: There is a repo on github with useful aliases for docker
+
 https://github.com/GHCwork/DockerWorkshop
 
 
