@@ -1,0 +1,14 @@
+
+3	BASIC COMMANDS FOR DOCKER
+3.1	BASIC COMMANDS FOR VMWARE PHOTON AND DOCKER
+http://www.virten.net/2015/04/basic-commands-for-vmware-photon-and-docker/ 
+3.2	INSTALLING THE FIRST CONTAINER APPLICATION
+•	systemctl start docker
+•	systemctl enable docker
+•	docker run hello-world
+That's it, you have a running Docker container.
+
+3.3	DOCKER CHEAT SHEET
+Try using commands in following cheat sheet for docker basic commands.
+https://github.com/wsargent/docker-cheat-sheet 
+
