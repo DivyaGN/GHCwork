@@ -104,9 +104,7 @@ Option 3:
 
 
 
-Note: download_deps_before.workshop.sh
 
-The script will help you make sure that docker is up and running, we want to go swiftly through excercises, it will also download everyting before so we won't have to rely on the internet connection.
 
 Note: 
 There is a repo on github with useful aliases for docker
